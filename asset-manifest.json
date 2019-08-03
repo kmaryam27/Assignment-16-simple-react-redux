@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Assignment-16-simple-react-redux/static/css/main.8d7b6f6b.chunk.css",
+    "main.js": "/Assignment-16-simple-react-redux/static/js/main.9b406c14.chunk.js",
+    "main.js.map": "/Assignment-16-simple-react-redux/static/js/main.9b406c14.chunk.js.map",
+    "runtime~main.js": "/Assignment-16-simple-react-redux/static/js/runtime~main.b9c2359b.js",
+    "runtime~main.js.map": "/Assignment-16-simple-react-redux/static/js/runtime~main.b9c2359b.js.map",
+    "static/js/2.31579dd0.chunk.js": "/Assignment-16-simple-react-redux/static/js/2.31579dd0.chunk.js",
+    "static/js/2.31579dd0.chunk.js.map": "/Assignment-16-simple-react-redux/static/js/2.31579dd0.chunk.js.map",
+    "index.html": "/Assignment-16-simple-react-redux/index.html",
+    "precache-manifest.730a7a902463a8e82f2dade347016360.js": "/Assignment-16-simple-react-redux/precache-manifest.730a7a902463a8e82f2dade347016360.js",
+    "service-worker.js": "/Assignment-16-simple-react-redux/service-worker.js",
+    "static/css/main.8d7b6f6b.chunk.css.map": "/Assignment-16-simple-react-redux/static/css/main.8d7b6f6b.chunk.css.map"
+  }
+}
